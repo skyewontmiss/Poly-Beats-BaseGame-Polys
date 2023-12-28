@@ -1,29 +1,32 @@
-[
-  {
-    "mapName": "ANNIHILATION",
-    "difficulties": {
-      "easy": 2.5,
-      "expert": 4.2,
-      "limitless": 6.8,
-      "maximum": 9.2
+{
+    "maps": [
+    {
+      "mapName": "ANNIHILATION",
+      "difficulties": {
+        "easy": 2.5,
+        "expert": 4.2,
+        "limitless": 6.8,
+        "maximum": 9.2
+      }
+    },
+    {
+      "mapName": "ExampleMap",
+      "difficulties": {
+        "easy": 2.5,
+        "expert": 4.2,
+        "limitless": 6.8,
+        "maximum": 9.5
+      }
+    },
+    {
+      "mapName": "ExampleMap",
+      "difficulties": {
+        "easy": 2.5,
+        "expert": 4.2,
+        "limitless": 6.8,
+        "maximum": 9.5
+      }
     }
-  },
-  {
-    "mapName": "ExampleMap",
-    "difficulties": {
-      "easy": 2.5,
-      "expert": 4.2,
-      "limitless": 6.8,
-      "maximum": 9.5
-    }
-  },
-  {
-    "mapName": "ExampleMap",
-    "difficulties": {
-      "easy": 2.5,
-      "expert": 4.2,
-      "limitless": 6.8,
-      "maximum": 9.5
-    }
-  }
-]
+  ]
+}
+  
