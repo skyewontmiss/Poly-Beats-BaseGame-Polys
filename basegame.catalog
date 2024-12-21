@@ -8,7 +8,7 @@
       "maximum": 7.4
     },
     {
-      "Name": "GalacticWarfare",
+      "Name": "Galactic_Warfare",
       "easy": 2.6,
       "expert": 4.2,
       "limitless": 5.9,
@@ -43,7 +43,7 @@
       "maximum": 4
     },
     {
-      "Name": "PRIMALRAGE",
+      "Name": "PRIMAL_RAGE",
       "easy": 1.3,
       "expert": 3.6,
       "limitless": 6.8,
